@@ -4,9 +4,7 @@
    +**Java**
    +**Python**
    +**Javascript**
-   +**Php**
    +**Sql** (MySql)
-   +**C#**
    +**HTML**
    +**CSS**
 - 💞️ I’m looking to collaborate on ...
